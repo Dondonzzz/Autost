@@ -1,1 +1,2 @@
 # Autost
+assets free version
